@@ -1,0 +1,20 @@
+{
+  "Group": "Dokucraft TSC",
+  "Name": "Dokucraft",
+  "Version": "1.0.0",
+  "Description": "Dokucraft Light",
+  "Authors": [
+    {
+      "Name": "SyndiShanX",
+      "Email": "",
+      "Url": "https://github.com/SyndiShanX"
+    }
+  ],
+  "Website": "https://dokucraft.co.uk/",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false,
+  "SubPlugins": []
+}
